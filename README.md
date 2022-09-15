@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slicer00&theme=vue-dark&show_icons=true)](https://github.com/Slicer00/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slicer00&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Slicer00/github-readme-stats)
 <!--
 **Slicer00/Slicer00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
